@@ -29,6 +29,12 @@ body {
   padding: 0;
 }
 
+.lead {
+  font-size: 1.2em;
+}
+p {
+  font-size: 1.1em;
+}
 
 /* Custom Button Styles */
 
@@ -172,6 +178,10 @@ hr.small {
 }
 .header h3 {
   font-size: 250%
+}
+
+.graceful {
+  font-family: 'Courgette', cursive;
 }
 
 
