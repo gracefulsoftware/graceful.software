@@ -36,6 +36,21 @@ p {
   font-size: 1.1em;
 }
 
+.person {
+  background-color: rgba(0,0,0,0.3);
+  padding: 20px 20px 0 20px;
+  margin-bottom: 20px;
+  text-align: justify;
+}
+.person .picture {
+  border: 5px solid white;
+  margin-bottom: 20px;
+}
+.person .skills {
+  font-size: 1.1em;
+  text-align: left;
+}
+
 /* Custom Button Styles */
 
 .btn-dark {
@@ -174,7 +189,6 @@ hr.small {
   color: #fff;
 }
 .header h1 {
-  font-family: 'Courgette', cursive;
 }
 .header h3 {
   font-size: 250%
