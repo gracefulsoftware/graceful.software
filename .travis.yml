@@ -8,6 +8,6 @@ deploy:
   bucket: www.graceful.software
   local-dir: assets
   acl: public_read
-  region: eu-west-1
+  region: eu-west-2
   on:
     repo: gracefulsoftware/graceful.software
